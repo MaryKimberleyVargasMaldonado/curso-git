@@ -13,8 +13,8 @@ Este es un mensaje editado completamente desde github.
 ## h2
 ### h3
 #### h4
-###### h5
-####### h6
+##### h5
+###### h6
 
 * A
 * B
